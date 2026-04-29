@@ -1,28 +1,27 @@
-# AI Jam Sessions
+# AI Prompting for Academic, Professional, and Personal Development
 ## README
-### Davidson College AI Student Fellow Program
 
 ---
 
 ## What This Is
 
-The AI Jam Sessions are a six-part, hands-on prompt engineering series hosted by the Davidson College AI Student Fellow. Each session is designed to help students build practical, transferable AI skills applied directly to the academic and professional work they are already doing.
+These videos are a six-part, hands-on prompt engineering series. Each video is designed to help students build practical, transferable AI skills applied directly to the academic and professional work they are already doing.
 
-Sessions are casual, collaborative, and grounded in real student work. There are no slides required, no lectures, and no pressure. Each session runs approximately 60 minutes and follows a consistent structure: a short group warm-up prompt, four guided experiments, and a debrief. Students are encouraged to bring actual assignments, papers, notes, and projects — the messier, the better.
+Videos are casual, collaborative, and grounded in real student work. There are no slides required, no lectures, and no pressure. Each video runs approximately for a few minutes and students can easily rewind whenever necessay.
 
-The series is built on **Bloom's Revised Taxonomy**, structuring each session to move students from foundational recall through to original creation within a single jam. Every session also includes a short companion video (~5 minutes) introducing the core prompts and process before students arrive.
+The series is built on **Bloom's Revised Taxonomy**, structuring each video to move students from foundational recall through to original creation within a single jam.
 
 ---
 
 ## Who This Is For
 
-Any Davidson student regardless of major, year, or prior experience with AI tools. Sessions are designed to be immediately useful — students should leave each one with prompts they can apply to their work that same week.
+Any Davidson student regardless of major, year, or prior experience with AI tools. Videos are designed to be immediately useful — students should leave each one with prompts they can apply to their work that same week.
 
 ---
 
 ## Series Structure
 
-| # | Session Title | Core Theme |
+| # | Video Title | Core Theme |
 |---|---|---|
 | 1 | Writing & Essays | AI as a thinking partner and critical challenger in the writing process |
 | 2 | Research & Reading | Navigating sources, summaries, and the literature landscape with purpose |
@@ -33,14 +32,14 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 
 ---
 
-## Session Descriptions
+## Video Descriptions
 
 ---
 
 ### Video 1 — Writing & Essays
 **Subtitle:** *Using AI as a Thinking Partner, Not a Ghostwriter*
 
-**The core idea:** AI is most powerful in the writing process when it challenges you — not when it does the work for you. This session teaches students to use prompt engineering to stress-test arguments, get unstuck, and sharpen their writing while keeping their voice and reasoning at the center.
+**The core idea:** AI is most powerful in the writing process when it challenges you — not when it does the work for you. This video teaches students to use prompt engineering to stress-test arguments, get unstuck, and sharpen their writing while keeping their voice and reasoning at the center.
 
 **Prompt engineering skills covered:**
 - Role assignment — giving AI a specific perspective or persona to argue from
@@ -61,7 +60,7 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 ### Video 2 — Research & Reading
 **Subtitle:** *Navigating Sources, Summaries, and the Literature Landscape*
 
-**The core idea:** AI is only as useful as the purpose you give it. This session teaches students to lead every research prompt with their specific paper argument and reading goal — transforming generic summaries into targeted, strategically useful research support.
+**The core idea:** AI is only as useful as the purpose you give it. This video teaches students to lead every research prompt with their specific paper argument and reading goal — transforming generic summaries into targeted, strategically useful research support.
 
 **Prompt engineering skills covered:**
 - Context-setting — leading every prompt with purpose, paper topic, and what you need from the source
@@ -82,7 +81,7 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 ### Video 3 — Studying & Test Prep
 **Subtitle:** *Building Custom Study Tools with Prompt Engineering*
 
-**The core idea:** Generic study tools produce generic preparation. This session teaches students to feed AI their actual lecture notes, syllabus language, and course material — generating personalized quizzes, targeted explanations, and simulated exam pressure that maps directly to their specific course.
+**The core idea:** Generic study tools produce generic preparation. This video teaches students to feed AI their actual lecture notes, syllabus language, and course material — generating personalized quizzes, targeted explanations, and simulated exam pressure that maps directly to their specific course.
 
 **Prompt engineering skills covered:**
 - Specificity — feeding AI real course material rather than abstract topic names
@@ -103,7 +102,7 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 ### Video 4 — Data & Quantitative Work
 **Subtitle:** *Thinking Through Numbers with AI as Your Step-by-Step Partner*
 
-**The core idea:** AI is not a calculator — it is an exceptionally patient quantitative tutor. This session teaches students to use AI to build genuine understanding of methods, interpret results in context, and audit their own reasoning — not to execute calculations on their behalf.
+**The core idea:** AI is not a calculator — it is an exceptionally patient quantitative tutor. This video teaches students to use AI to build genuine understanding of methods, interpret results in context, and audit their own reasoning — not to execute calculations on their behalf.
 
 **Prompt engineering skills covered:**
 - Step-by-step prompting — asking AI to explain the logic behind each operation, not just the operation itself
@@ -124,7 +123,7 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 ### Video 5 — Creative & Interdisciplinary Projects
 **Subtitle:** *Prompting for Originality, Style, and Big Swings*
 
-**The core idea:** Specificity is the engine of creative prompting — the more precise the constraint, the more original the output. This session teaches students to use AI to expand their creative range, generate unexpected angles, and push their work across disciplinary boundaries, while keeping their own voice and judgment in charge of every final decision.
+**The core idea:** Specificity is the engine of creative prompting — the more precise the constraint, the more original the output. This video teaches students to use AI to expand their creative range, generate unexpected angles, and push their work across disciplinary boundaries, while keeping their own voice and judgment in charge of every final decision.
 
 **Prompt engineering skills covered:**
 - Tone and style control — specifying register, aesthetic, and creative mode precisely
@@ -145,7 +144,7 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 ### Video 6 — Career & Personal Development
 **Subtitle:** *Prompting for Clarity, Confidence, and Next Steps*
 
-**The core idea:** Career materials and professional clarity require self-knowledge first and polished documents second. This session teaches students to give AI real context about who they are — not generic descriptions — and to use it as a thinking partner for both document refinement and deeper career reflection, while recognizing what AI cannot do: replace the perspective of someone who knows their context, campus, and field.
+**The core idea:** Career materials and professional clarity require self-knowledge first and polished documents second. This video teaches students to give AI real context about who they are — not generic descriptions — and to use it as a thinking partner for both document refinement and deeper career reflection, while recognizing what AI cannot do: replace the perspective of someone who knows their context, campus, and field.
 
 **Prompt engineering skills covered:**
 - Persona prompting — putting AI in the role of recruiter, hiring manager, or demanding interviewer
@@ -165,14 +164,14 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 
 ## Companion Video Series
 
-Each session has a companion video of approximately five minutes, designed to be watched before the in-person jam. Each video covers:
+Each video has a companion video of approximately five minutes, designed to be watched before the in-person jam. Each video covers:
 
-- The core problem the session addresses, grounded in a relatable student scenario
-- The big idea — the conceptual shift the session is built around
+- The core problem the video addresses, grounded in a relatable student scenario
+- The big idea — the conceptual shift the video is built around
 - Three named, reusable prompts with weak vs. strong examples
 - A clear "what not to do" section addressing misuse, shortcuts, and limitations
 - A step-by-step workflow showing how the prompts fit into a real academic task
-- A call to action connecting the video to the in-person jam session
+- A call to action connecting the video to the in-person jam video
 
 Videos are intentionally conversational and peer-to-peer in tone — not lectures, not tutorials. They are designed to feel like a knowledgeable classmate walking you through something useful.
 
@@ -183,12 +182,12 @@ Videos are intentionally conversational and peer-to-peer in tone — not lecture
 - It is not a tutorial on how to get AI to do your work for you
 - It is not a series of productivity hacks or shortcuts
 - It is not a replacement for reading, writing, thinking, or engaging with your professors and peers
-- It is not discipline-specific — every session is designed for any Davidson student regardless of major
+- It is not discipline-specific — every video is designed for any Davidson student regardless of major
 
 ---
 
 ## A Note on Academic Integrity
 
-Every session in this series is designed around a core principle: AI is a tool for thinking, not a substitute for it. The prompts taught across all six sessions are oriented toward using AI to challenge, clarify, critique, and expand student thinking — not to produce work that students then submit as their own.
+Every video in this series is designed around a core principle: AI is a tool for thinking, not a substitute for it. The prompts taught across all six videos are oriented toward using AI to challenge, clarify, critique, and expand student thinking — not to produce work that students then submit as their own.
 
 Students are always encouraged to check their institution's academic integrity policies and individual course guidelines regarding AI use. When in doubt, ask your professor directly.

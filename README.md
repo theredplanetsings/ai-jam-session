@@ -1,5 +1,4 @@
 # AI Prompting for Academic, Professional, and Personal Development
-## README
 
 ---
 

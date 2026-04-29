@@ -6,9 +6,9 @@
 
 These videos are a six-part, hands-on prompt engineering series. Each video is designed to help students build practical, transferable AI skills applied directly to the academic and professional work they are already doing.
 
-Each video runs for a few minutes and students can easily rewind whenever necessary.
+Each video runs for approximately five minutes and students can easily rewind whenever necessary.
 
-The series is built on **Bloom's Revised Taxonomy**, structuring each video to move students from foundational recall through to original creation within a single jam.
+The series is built on **Bloom's Revised Taxonomy**, structuring each video to move students from foundational recall through to original creation.
 
 ---
 
@@ -161,14 +161,13 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 
 ---
 
-## Content
+## What Each Video Contains
 
 - The core problem the video addresses, grounded in a relatable student scenario
 - The big idea — the conceptual shift the video is built around
 - Three named, reusable prompts with weak vs. strong examples
 - A clear "what not to do" section addressing misuse, shortcuts, and limitations
 - A step-by-step workflow showing how the prompts fit into a real academic task
-- A call to action connecting the video to the in-person jam video
 
 Videos are intentionally conversational and peer-to-peer in tone — not lectures, not tutorials. They are designed to feel like a knowledgeable classmate walking you through something useful.
 

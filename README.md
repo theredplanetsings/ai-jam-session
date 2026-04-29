@@ -161,9 +161,7 @@ Any Davidson student regardless of major, year, or prior experience with AI tool
 
 ---
 
-## Companion Video Series
-
-Each video has a companion video of approximately five minutes, designed to be watched before the in-person jam. Each video covers:
+## Content
 
 - The core problem the video addresses, grounded in a relatable student scenario
 - The big idea — the conceptual shift the video is built around
@@ -187,6 +185,6 @@ Videos are intentionally conversational and peer-to-peer in tone — not lecture
 
 ## A Note on Academic Integrity
 
-Every video in this series is designed around a core principle: AI is a tool for thinking, not a substitute for it. The prompts taught across all six videos are oriented toward using AI to challenge, clarify, critique, and expand student thinking — not to produce work that students then submit as their own.
+Every video in this series is designed around a core principle: AI is a tool for thinking, NOT a substitute for it. The prompts taught across all six videos are oriented toward using AI to challenge, clarify, critique, and expand student thinking — not to produce work that students then submit as their own.
 
 Students are always encouraged to check their institution's academic integrity policies and individual course guidelines regarding AI use. When in doubt, ask your professor directly.

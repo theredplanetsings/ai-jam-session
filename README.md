@@ -6,7 +6,7 @@
 
 These videos are a six-part, hands-on prompt engineering series. Each video is designed to help students build practical, transferable AI skills applied directly to the academic and professional work they are already doing.
 
-Videos are casual, collaborative, and grounded in real student work. There are no slides required, no lectures, and no pressure. Each video runs approximately for a few minutes and students can easily rewind whenever necessay.
+Each video runs for a few minutes and students can easily rewind whenever necessary.
 
 The series is built on **Bloom's Revised Taxonomy**, structuring each video to move students from foundational recall through to original creation within a single jam.
 
